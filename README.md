@@ -1,4 +1,4 @@
-ELM327-SIMU
-===========
+OBDX-simulator
+==============
 
-Simulator for the ELM327
+Sourcecode to simulate a on-board-diagnostic system, e.g. ELM327, on a Arduino.
